@@ -77,7 +77,7 @@ I’m building a strong foundation in math, programming, and data analysis while
 ### 🤝 Let’s Connect
 
 - 📫 **Email:** phoyo008@fiu.edu
-- **Linkind** https://www.linkedin.com/in/pablo-hoyos-4544b9383/
+- **linkedIn:** https://www.linkedin.com/in/pablo-hoyos-4544b9383/
   
 
 If you’re working on projects in **data, AI, or healthcare tech**, I’m always open to collaborating and learning from others.
