@@ -18,8 +18,9 @@ I’m building a strong foundation in math, programming, and data analysis while
 ### 🛠️ Technical Skills
 
 **Programming & Scripting**
-- Python (fundamentals, functions, loops, file handling)
+- Python (fundamentals, functions, loops, file handling, ML, streamlit)
 - Basic HTML
+- Basic Java
 
 **Data & Analysis**
 - Working with data in Python (lists, dictionaries, basic manipulation)
@@ -42,23 +43,6 @@ I’m building a strong foundation in math, programming, and data analysis while
 
 ---
 
-### 🚧 Current & Recent Projects
-
-- 🧮 **University coursework projects**  
-  - Python exercises: file handling, dictionaries, simple simulations and plots  
-  - Calculus & math projects involving limits, derivatives, and integrals
-
-- 🏥 **Healthcare & operations projects (Colombia)**  
-  - Helping organize and structure data for a healthcare company (IPS)  
-  - Creating documents, spreadsheets, and basic tools to support decision-making and quality processes
-
-- 📊 **Personal learning projects**  
-  - Small Python scripts to automate tasks  
-  - Experiments with data visualization and simple analysis
-
-*(As I grow, I’ll pin my main projects below 👇)*
-
----
 
 ### 🎯 Career Goals
 
