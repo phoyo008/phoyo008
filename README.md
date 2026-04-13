@@ -1,67 +1,43 @@
-## Hi there 👋
+# Hey, I'm Pablo 👋
 
+**Data Science & AI** student at Florida International University — turning messy problems into structured data and clear visuals.
 
-I'm **Pablo Hoyos**, a **Data Science & AI sophomore at Florida International University (FIU)**.  
-I’m building a strong foundation in math, programming, and data analysis while exploring how AI can solve real-world problems in **healthcare, business, and agriculture**.
+I'm interested in how machine learning and automation can drive better decisions in **healthcare**, **business**, and **agriculture**.
 
----
-
-### 🧠 About Me
-
-- 🎓 **Current status:** Data Science & AI student @ FIU  
-- 💻 **Interests:** Machine learning, data analysis, automation, and AI applied to healthcare & real-world decision making  
-- 🌎 **Languages:** English 🇺🇸 | Spanish 🇨🇴  
-- 🧩 I enjoy turning messy problems into structured data and clear visuals
+🌎 English · Español
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠 Tech Stack
 
-**Programming & Scripting**
-- Python (fundamentals, functions, loops, file handling, ML, streamlit)
-- Basic HTML
-- Basic Java
-
-**Data & Analysis**
-- Working with data in Python (lists, dictionaries, basic manipulation)
-- Intro to data visualization (matplotlib)
-- Basic statistics & calculus (through university coursework)
-
-**Tools & Workflow**
-- Git & GitHub (version control, branches, pull requests – learning and improving)
-- VS Code / PyCharm (depending on the project)
-- Google Sheets / Excel for quick data analysis
+| Area | Tools |
+|------|-------|
+| **Languages** | Python · Java · HTML |
+| **Data** | pandas · matplotlib · scikit-learn |
+| **Apps** | Streamlit |
+| **Workflow** | Git · VS Code · PyCharm |
 
 ---
 
-### 📚 What I’m Currently Learning
+### 🔭 Currently Focused On
 
-- Stronger foundations in **calculus and linear algebra** for data science  
-- **Python for data analysis** (pandas, matplotlib, etc.)  
-- Core ideas of **machine learning** and model evaluation  
-- Best practices for **clean, readable code** and project organization
-
----
-
-
-### 🎯 Career Goals
-
-- Short term:
-  - Solidify my base in **math, Python, and data analysis**
-  - Build a portfolio of **clean, well-documented projects** on GitHub
-  - Get internships or roles related to **data analysis, AI, or software development**
-
-- Long term:
-  - Work as a **Data Scientist / Machine Learning Engineer**
-  - Use AI to improve **healthcare systems, business decisions, and real-world operations**  
-  - Combine technical skills with domain knowledge in **health, agriculture, and business**
+- Calculus & linear algebra foundations for ML
+- Data analysis with pandas and visualization with matplotlib
+- Building clean, well-documented portfolio projects
+- Core machine learning & model evaluation
 
 ---
 
-### 🤝 Let’s Connect
+### 🎯 Where I'm Headed
 
-- 📫 **Email:** phoyo008@fiu.edu
-- **LinkedIn:** https://www.linkedin.com/in/pablo-hoyos-4544b9383/
-  
+**Near term** — internships in data analysis, AI, or software development
+**Long term** — Data Scientist / ML Engineer applying AI to healthcare systems and real-world operations
 
-If you’re working on projects in **data, AI, or healthcare tech**, I’m always open to collaborating and learning from others.
+---
+
+### 📫 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-phoyo008%40fiu.edu-blue?style=flat&logo=gmail)](mailto:phoyo008@fiu.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo_Hoyos-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/pablo-hoyos-4544b9383/)
+
+If you're working on projects in data, AI, or healthcare tech — always open to collaborating.
