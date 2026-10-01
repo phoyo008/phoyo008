@@ -12,7 +12,7 @@ I'm interested in how machine learning and automation can drive better decisions
 
 | Area | Tools |
 |------|-------|
-| **Languages** | Python · Java · HTML |
+| **Languages** | Python · Java · SQL |
 | **Data** | pandas · matplotlib · scikit-learn |
 | **Apps** | Streamlit |
 | **Workflow** | Git · VS Code · PyCharm |
