@@ -14,7 +14,9 @@ I build data pipelines, analytics backends, and AI-assisted tools, and I care ab
 - **Data pipelines & ETL:** scheduled ingestion from third-party APIs and scraped sources, normalization, and loading into relational stores
 - **SQL & data modeling:** PostgreSQL schemas, migrations, and query/RPC design for analytics dashboards
 - **Reliability:** automated tests, data validation, and debugging production sync failures
-- **Applied ML & AI:** classical ML on physiological signals, and retrieval-augmented generation (RAG) with LLM APIs
+- **Machine learning:** supervised classification and feature engineering (scikit-learn, Random Forest, XGBoost), model evaluation, and ML on physiological signals
+- **Distributed data processing:** Apache Spark / PySpark
+- **AI & agentic systems:** retrieval-augmented generation (RAG) with LLM APIs, and monitoring a production AI agent for ad-spend optimization
 
 ## Featured projects
 
@@ -31,8 +33,9 @@ I build data pipelines, analytics backends, and AI-assisted tools, and I care ab
 | | |
 |---|---|
 | **Languages** | Python, SQL, TypeScript, Java |
-| **Data** | pandas, PostgreSQL / Supabase, SQLite, scikit-learn, Jupyter |
-| **Backend & tooling** | Flask, REST APIs, pytest, Git / GitHub, pull-request review |
+| **Data** | Apache Spark, PySpark, pandas, NumPy, PostgreSQL / Supabase, SQLite, Jupyter |
+| **Machine learning** | scikit-learn, XGBoost, Random Forest, feature engineering, model evaluation |
+| **Backend & tooling** | Flask, REST APIs, pytest, Docker, Git / GitHub, pull-request review |
 | **Cloud & deploy** | Vercel, Railway, Supabase |
 
 ## Experience highlights
