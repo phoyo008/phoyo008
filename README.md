@@ -1,43 +1,45 @@
-# Hey, I'm Pablo 👋
+# Pablo Hoyos
 
-**Data Science & AI** student at Florida International University — turning messy problems into structured data and clear visuals.
+**Data Science & AI student at Florida International University** · Seeking Summer 2027 internships in analytics and data engineering
 
-I'm interested in how machine learning and automation can drive better decisions in **healthcare**, **business**, and **agriculture**.
+I build data pipelines, analytics backends, and AI-assisted tools, and I care about the unglamorous parts: tests, validation, and systems that keep working after the demo. Bilingual (English / Español).
 
-🌎 English · Español
-
----
-
-### 🛠 Tech Stack
-
-| Area | Tools |
-|------|-------|
-| **Languages** | Python · Java · SQL |
-| **Data** | pandas · matplotlib · scikit-learn |
-| **Apps** | Streamlit |
-| **Workflow** | Git · VS Code · PyCharm |
-
----
-
-### 🔭 Currently Focused On
-
-- Calculus & linear algebra foundations for ML
-- Data analysis with pandas and visualization with matplotlib
-- Building clean, well-documented portfolio projects
-- Core machine learning & model evaluation
-
----
-
-### 🎯 Where I'm Headed
-
-**Near term** — internships in data analysis, AI, or software development
-**Long term** — Data Scientist / ML Engineer applying AI to healthcare systems and real-world operations
-
----
-
-### 📫 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-phoyo008%40fiu.edu-blue?style=flat&logo=gmail)](mailto:phoyo008@fiu.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo_Hoyos-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/pablo-hoyos-4544b9383/)
+[![Email](https://img.shields.io/badge/Email-phoyo008%40fiu.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:phoyo008@fiu.edu)
 
-If you're working on projects in data, AI, or healthcare tech — always open to collaborating.
+---
+
+## What I work on
+
+- **Data pipelines & ETL:** scheduled ingestion from third-party APIs and scraped sources, normalization, and loading into relational stores
+- **SQL & data modeling:** PostgreSQL schemas, migrations, and query/RPC design for analytics dashboards
+- **Reliability:** automated tests, data validation, and debugging production sync failures
+- **Applied ML & AI:** classical ML on physiological signals, and retrieval-augmented generation (RAG) with LLM APIs
+
+## Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**portfolio-tracker**](https://github.com/phoyo008/portfolio-tracker) | Ingests U.S. House and Senate trade disclosures (PDF and electronic filings), normalizes them, syncs a broker account, and produces copy-trade signals behind safety rails (paper/live modes, position caps, kill switch). Includes unit tests for the signal and safety logic. | Python, TypeScript, Alpaca API, pytest |
+| [**lab-ipshyl**](https://github.com/phoyo008/lab-ipshyl) | Automates delivery of lab results for a healthcare clinic: parses patient data out of lab PDFs (including a defective-font workaround), matches patients to a Google Sheets directory, sends results by email, and keeps an audit log. | Python, Flask, SQLite, Google Sheets API |
+| [**Stress-Detection-from-Cardiac-Signals**](https://github.com/phoyo008/Stress-Detection-from-Cardiac-Signals) | Classifies stress states from heart-rate variability features with a Random Forest (88% accuracy on the SWELL dataset) and a live-monitoring Streamlit dashboard. | Python, scikit-learn, Streamlit |
+| [**AI-RAG-Chatbot**](https://github.com/phoyo008/AI-RAG-Chatbot) | Answers questions over uploaded documents using embeddings-based retrieval and Gemini, with a written reflection on responsible AI use. | Python, Streamlit, Gemini API |
+| [**CAP2757**](https://github.com/phoyo008/CAP2757) | Exploratory data analysis and visualization of a real marine-environment dataset. | pandas, Plotly, Streamlit |
+
+## Technical skills
+
+| | |
+|---|---|
+| **Languages** | Python, SQL, TypeScript, Java |
+| **Data** | pandas, PostgreSQL / Supabase, SQLite, scikit-learn, Jupyter |
+| **Backend & tooling** | Flask, REST APIs, pytest, Git / GitHub, pull-request review |
+| **Cloud & deploy** | Vercel, Railway, Supabase |
+
+## Experience highlights
+
+- Maintain and extend the analytics backend of an e-commerce Amazon / Google Ads dashboard: data-sync jobs, SQL functions, and fixes for incorrect date-window and totals logic, delivered through pull requests and code review.
+- Built internal tooling for a healthcare clinic in Colombia, automating a manual lab-results workflow end to end.
+
+## Currently
+
+Studying Data Science & AI at FIU and looking for a Summer 2027 internship in analytics or data engineering.
